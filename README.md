@@ -67,3 +67,7 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="http://git.equancy.io/tools/cookiecutter-data-science-project/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+Streamlit app 
+--------------
+https://julienesposito-air-traffic-app-lbfl9a.streamlit.app/
